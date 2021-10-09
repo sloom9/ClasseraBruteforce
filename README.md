@@ -7,7 +7,7 @@ This is a simple tool that Brute-forces the me.Classera login page using threads
 # Installation
 * git clone https://github.com/sloom9/ClasseraBruteforce.git
 * cd ClasseraBruteforce
-* python3 -m pip install -r requirments.txt
+* python3 -m pip install -r requirements.txt
 * python3 main.py
 
 # Note
