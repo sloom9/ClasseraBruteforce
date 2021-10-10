@@ -27,9 +27,6 @@ def get_user_input():
     get_threads = input('How many threads do you want ? >>')
     return Target_user, get_threads
 
-#This function sends the correct username:password data to a discord webhook to notify the user.
-def send_data(username, password):
-    return 0
 
 
 #login headers
