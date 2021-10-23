@@ -11,4 +11,4 @@ This is a simple tool that Brute-forces the me.Classera login page using threads
 * python3 main.py
 
 # Note
-this script shouldn't be used for harmless reasons rather just for fun testing
+this script shouldn't be used for harming reasons rather just for fun testing
