@@ -6,7 +6,7 @@ URL = 'https://me.classera.com/users/login'
 
 # asking the user for the password list (it has to be in current directory)
 def get_list():
-    input_list = input('Enter your password list (e.x list.txt) >>')
+    input_list = input('Enter your password list (e.g. list.txt) >>')
     try:
 
         list = open(f'{input_list}', 'r')
